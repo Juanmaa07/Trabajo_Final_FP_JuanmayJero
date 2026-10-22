@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\bin\Debug\CodigoTrabajoFinal.exe.config
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\bin\Debug\CodigoTrabajoFinal.exe
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\bin\Debug\CodigoTrabajoFinal.pdb
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\obj\Debug\CodigoTrabajoFinal.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\obj\Debug\CodigoTrabajoFinal.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\obj\Debug\CodigoTrabajoFinal.exe
-C:\Users\User\source\repos\CodigoTrabajoFinal\CodigoTrabajoFinal\obj\Debug\CodigoTrabajoFinal.pdb
