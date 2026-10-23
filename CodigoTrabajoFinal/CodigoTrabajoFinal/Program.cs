@@ -126,13 +126,13 @@ namespace CodigoTrabajoFinal
         }
         static void RealizarVenta()
         {
-            float valorTiquete = 59.900f;
+            decimal valorTiquete = 59.900m;
             Console.WriteLine("Ingrese el nombre del cliente.");
             string nombreCliente = Console.ReadLine();
             Console.WriteLine("Seleccione una de las rutas disponibles.");
             Console.WriteLine("Ingrese la cantidad de tiquetes que desea comprar.");
             int cantidadTiquetes = int.Parse(Console.ReadLine());
-            float precioFinal = valorTiquete * cantidadTiquetes;
+            decimal precioFinal = valorTiquete * cantidadTiquetes;
             Console.WriteLine("----------------------------RECIBO-----------------------------");
             Console.WriteLine($"|Nombre del cliente: {nombreCliente}.");
             Console.WriteLine($"|Ruta: Ruta Medelín-Bogotá.");
@@ -141,7 +141,7 @@ namespace CodigoTrabajoFinal
             Console.WriteLine("---------------------------------------------------------------");
             Console.WriteLine($"|{cantidadTiquetes}                         Tiquete                  {valorTiquete}.");
             Console.WriteLine("---------------------------------------------------------------");
-            Console.WriteLine($"|Total:                                        ${precioFinal}.");
+            Console.WriteLine($"|Total:                                            ${precioFinal}.");
 
             Console.WriteLine("Presione cualquier tecla para volver al menú.");
             char respuestaInutil = char.Parse(Console.ReadLine());
